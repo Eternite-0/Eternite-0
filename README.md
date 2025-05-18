@@ -1,8 +1,11 @@
 <h1 align="left">Hi there 👋</h1>
 
 ###
+🚀 About Me
 
-<p align="left">🚀 About Me<br>Deep Learning & LLM Engineer | Open-Source Enthusiast <br>🔭 Working on: Dozen of projects in LLM fine-tuning, AI agents, and multimodal systems (check my repos for latest experiments!) <br>🌱 Learning: Advancing skills in Python (PyTorch/TensorFlow), C++ (high-performance computing), Java (scalable backend), and cutting-edge LLM techniques (RAG, LoRA, RLHF) <br>⚡ Fun fact: "More fixing, more bugs" → But that's how we train better models! 🛠️🤖</p>
+- 🔭 Working on: Dozen of projects in LLM fine-tuning, AI agents, and multimodal systems (check my repos for latest experiments!)
+- 🌱  Learning: Advancing skills in Python (PyTorch/TensorFlow), C++ (high-performance computing), Java (scalable backend), and cutting-edge LLM techniques (RAG, LoRA, RLHF)
+- ⚡  Fun fact: "More fixing, more bugs" → But that's how we train better models! 🛠️🤖
 
 ###
 
